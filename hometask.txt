@@ -1,0 +1,9 @@
+Merge branch 'boots_buttons_' imrushka 4 minutes ago
+Merge remote-tracking branch 'origin/hat' imrushka 5 minutes ago
+Merge remote-tracking branch 'origin/demo' into boots_buttons_ imrushka 50 minutes ago
+Merge remote-tracking branch 'origin/boots' into boots_buttons_ imrushka 51 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 5:29
+
+
+
+master contains all commits from demo
